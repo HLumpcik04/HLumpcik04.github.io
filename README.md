@@ -5,8 +5,8 @@
     <title>Eloheh Healthcare Services</title>
     <style>
         body {
+            background-color: #BD9A7A;
             font-family: Arial, sans-serif;
-            background-color: #BD9A7A;
             line-height: 1.6;
         }
         h1 {
