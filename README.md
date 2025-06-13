@@ -10,10 +10,10 @@
             line-height: 1.6;
         }
         h1 {
-            color: #f9e79f;
+            color: #000000;
         }
         h2 {
-            color: #f7dc6f;
+            color: #000000;
         }
         .bold {
             font-weight: bold;
