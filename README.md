@@ -63,7 +63,7 @@
 
     <h2>Additional Resources</h2>
     <p>For more information on healthcare, visit <a href="https://www.healthcare.gov" target="_blank">HealthCare.gov</a>.</p>
-    <p>Download our <a href="[brochure.pdf](https://drive.google.com/uc?export=download&id=18gWGULhJHKvTcSH-5GL_KnKt3mocrGZT)" download>brochure</a> for more details.</p>
+    <p>Download our <a href="https://drive.google.com/uc?export=download&id=18gWGULhJHKvTcSH-5GL_KnKt3mocrGZT" download>brochure</a> for more details.</p>
 
     <h2>Service Packages</h2>
     <ol>
