@@ -7,7 +7,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #BD9A7A;
-            color: #fff;
+            line-height: 1.6;
         }
         h1 {
             color: #f9e79f;
@@ -41,7 +41,6 @@
 <body>
     <h1>Eloheh Healthcare Services</h1>
 
-    <h2>Gallery</h2>
     <img src="https://drive.google.com/thumbnail?id=1-e4vj9zWNe5zxD9D4i75zwqh9oJNJRp_" alt="Healthcare Image" width="200">
 
     <h2>Our Services</h2>
