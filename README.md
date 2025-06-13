@@ -28,7 +28,6 @@
             color: #f1948a;
         }
         .contact {
-            color: #aed6f1;
             font-family: Courier, monospace;
             font-size: 1.1em;
         }
