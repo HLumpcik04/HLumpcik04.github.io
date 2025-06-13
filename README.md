@@ -27,13 +27,13 @@
     }
     .last-modified {
       font-size: 0.9em;
-      color: #d5d8dc;
+      color: #f0e68c;
     }
     .red {
       color: #e74c3c;
     }
     .purple {
-      color: #f0e68c;
+      color: #7851a9;
     }
   </style>
 </head>
