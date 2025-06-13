@@ -15,7 +15,6 @@
         h2 {
             color: #f7dc6f;
         }
-        .bold {
             font-weight: bold;
         }
         .italic {
