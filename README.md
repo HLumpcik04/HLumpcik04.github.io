@@ -61,7 +61,7 @@
     </ul>
 
     <h2>Contact Us</h2>
-    <p>If you have any questions or need further information, please <a href="mailto:info@eloheh.com" class="contact">contact me</a>.</p>
+    <p>If you have any questions or need further information, please <a href="mailto:hlumpcik@purdue.edu" class="contact">contact me</a>.</p>
 
     <h2>Additional Resources</h2>
     <p>For more information on healthcare, visit <a href="https://www.healthcare.gov" target="_blank">HealthCare.gov</a>.</p>
