@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -23,7 +22,6 @@
       text-decoration: underline;
     }
     .contact {
-      color: #aed6f1;
       font-family: Courier, monospace;
       font-size: 1.1em;
     }
