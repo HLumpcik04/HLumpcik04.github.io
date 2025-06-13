@@ -33,7 +33,7 @@
       color: #e74c3c;
     }
     .purple {
-      color: #7851a9;
+      color: #f0e68c;
     }
   </style>
 </head>
