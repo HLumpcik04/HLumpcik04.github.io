@@ -34,7 +34,7 @@
         }
         .last-modified {
             font-size: 0.9em;
-            color: #d5d8dc;
+            color: #f0e68c;
         }
     </style>
 </head>
