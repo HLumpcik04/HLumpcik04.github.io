@@ -40,7 +40,6 @@
 </head>
 <body>
     <h1>Eloheh Healthcare Services</h1>
-
     <img src="https://drive.google.com/thumbnail?id=1-e4vj9zWNe5zxD9D4i75zwqh9oJNJRp_" alt="Healthcare Image" width="200">
 
     <h2>Our Services</h2>
