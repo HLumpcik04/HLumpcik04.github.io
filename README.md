@@ -24,9 +24,6 @@
         .underline {
             text-decoration: underline;
         }
-        .highlight {
-            color: #f1948a;
-        }
         .contact {
             font-family: Courier, monospace;
             font-size: 1.1em;
