@@ -28,15 +28,10 @@
     .last-modified {
       font-size: 0.7em;
       color: #f0e68c;
+      font-family: 'Times New Roman', Times, serif;
     }
     .red {
-      color: #e74c3c;
-    }
-    .font1 {
-      font-family: 'Times New Roman', Times, serif;   
-    }
-    .font2 {
-      font-family: 'Courier New', Courier, monospace;
+      color: #e74c3c;   
     }
     .purple {
       color: #7851a9;
@@ -58,8 +53,8 @@
   <h2>Why Choose Us?</h2>
   <ul>
     <li>Comprehensive healthcare solutions</li>
-    <li class="red font1">Affordable pricing</li>
-    <li class="purple font2">Expert medical professionals</li>
+    <li class="red">Affordable pricing</li>
+    <li class="purple">Expert medical professionals</li>
   </ul>
 
   <h2>Contact Us</h2>
